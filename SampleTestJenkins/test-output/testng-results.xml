@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-07-17T14:37:44 IST" name="Default suite" finished-at="2024-07-17T14:37:44 IST" duration-ms="78">
+  <suite started-at="2024-07-17T14:41:13 IST" name="Default suite" finished-at="2024-07-17T14:41:13 IST" duration-ms="86">
     <groups>
     </groups>
-    <test started-at="2024-07-17T14:37:44 IST" name="Default test" finished-at="2024-07-17T14:37:44 IST" duration-ms="78">
+    <test started-at="2024-07-17T14:41:13 IST" name="Default test" finished-at="2024-07-17T14:41:13 IST" duration-ms="86">
       <class name="pac1.ContactTest">
-        <test-method signature="createContactTest()[pri:0, instance:pac1.ContactTest@4c1909a3]" started-at="2024-07-17T14:37:44 IST" name="createContactTest" finished-at="2024-07-17T14:37:44 IST" duration-ms="11" status="PASS">
+        <test-method signature="createContactTest()[pri:0, instance:pac1.ContactTest@4c1909a3]" started-at="2024-07-17T14:41:13 IST" name="createContactTest" finished-at="2024-07-17T14:41:13 IST" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createContactTest -->
-        <test-method signature="modifyContactTest()[pri:0, instance:pac1.ContactTest@4c1909a3]" started-at="2024-07-17T14:37:44 IST" name="modifyContactTest" finished-at="2024-07-17T14:37:44 IST" duration-ms="1" status="PASS">
+        <test-method signature="modifyContactTest()[pri:0, instance:pac1.ContactTest@4c1909a3]" started-at="2024-07-17T14:41:13 IST" name="modifyContactTest" finished-at="2024-07-17T14:41:13 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- modifyContactTest -->
